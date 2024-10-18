@@ -1,0 +1,1 @@
+A binary classification project using scikit-learn to distinguish between malignant and benign tumors. The dataset contains tumor-related features, and the project applies machine learning models like logistic regression. The goal is to build an accurate classifier to aid in early diagnosis and treatment.
